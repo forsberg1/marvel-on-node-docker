@@ -1,4 +1,3 @@
-# marvel-on-node-docker
 # First build the image:
 docker build -t [name] .
 # Docker run example:
